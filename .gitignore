@@ -1,0 +1,52 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environment files
+env/
+.conda/
+*.conda
+
+# Virtual environments
+venv/
+ENV/
+env.bak/
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+test_images/
+test_phone/
+
+# Jupyter Notebook config and runtime
+.jupyter/
+.local/
+.cache/
+
+# VSCode settings
+.vscode/
+
+# Log files
+*.log
+
+# Data files (optional, if you don't want to track datasets)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite
+*.mp4
+*.tflite
+*.npy
+*.onnx
+
+# Environment variables
+.env
